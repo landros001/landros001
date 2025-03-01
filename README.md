@@ -2,7 +2,7 @@
 
 ## À propos de moi :
 - Passionné d'informatique et d'entrepreneuriat
-- Je développe en JavaScript (Node.js, React) , PHP(Orienté objet et lara)
+- Je développe en JavaScript (Node.js, React) , PHP(Orienté objet et Laravel)
 - Étudiant en génie informatique
 
 ## Mes projets :
